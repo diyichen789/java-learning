@@ -1,3 +1,3 @@
 # Chapter 1 Dive in A Quick Dip
 ## Code Structure in java
-[](java-learning/java-1-1.png)
+[](https://github.com/diyichen789/java-learning/blob/master/java-1-1.png)
