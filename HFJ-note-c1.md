@@ -1,15 +1,13 @@
 # Chapter 1 Dive in A Quick Dip
 ## Code Structure in java
-![](https://github.com/diyichen789/java-learning
-/blob/master/java-1-1.png)
+![](https://github.com/diyichen789/java-learning/blob/master/java-1-1.png)
 
 Put a class in a source file.   
 Put methods in a class.   
 Put statements in a method.
 
 ## Anatomy of a class
-![](https://github.com/diyichen789/java-learning/blob
-/master/32dbfaae98bf77ddedcbdc5d1622322.png)
+![](https://github.com/diyichen789/java-learning/blob/master/32dbfaae98bf77ddedcbdc5d1622322.png)
 
 ```java
 public class MyFirstApp{
