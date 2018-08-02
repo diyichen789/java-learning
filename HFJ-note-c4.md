@@ -105,5 +105,5 @@ Remember: a class describe what an object ***knows*** and what an object ***does
 ![](https://github.com/diyichen789/java-learning/blob/master/c4-5.png)  
 
 ### Comparing variables(primitives or references)
-> Use "==" to compare two primitives or to see if two references refer to the same object. 
+> Use "==" to compare two primitives or to see if two references refer to the same object.    
 > Use the "equals()" method to see if two different objects are equal.
