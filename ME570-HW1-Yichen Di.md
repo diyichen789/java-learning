@@ -1,3 +1,5 @@
+<script type="text/x-mathjax-config"> MathJax.Hub.Config({ tex2jax: {inlineMath: [['$','$'],['\\(','\\)']]} }); </script> <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
+
 #Homework 1
 ## ME570 Yichen Di
 ### September, 10th, 2018
@@ -60,7 +62,8 @@ First, using 5 testpoints:
 
 Moreover, using 100 testpoints:
 
-Last, revise the function to display a random triangle and test it with 100 random points:
+Last, revise the function to display a random triangle and test it with 100 random points:    
+
 
 ####Question 3.1
 
