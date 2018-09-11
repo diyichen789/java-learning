@@ -67,6 +67,6 @@ Last, revise the function to display a random triangle and test it with 100 rand
 ####Question 4.1
 30 hours!
 ####Question 4.2(optional)
-The easy part is that I am good at coding and math, and I am familiar with the data structure priority queue.
+The easy part is that I am good at coding and math, and I am familiar with the data structure priority queue.   
 
 The hard part is that although I am good at coding, I am annoyed with the Matlab syntax because I have used Java and python for a long time.
