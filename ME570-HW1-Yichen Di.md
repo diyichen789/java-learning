@@ -1,4 +1,5 @@
-<script type="text/x-mathjax-config"> MathJax.Hub.Config({ tex2jax: {inlineMath: [['$','$'],['\\(','\\)']]} }); </script> <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
+<script type="text/x-mathjax-config"> MathJax.Hub.Config({ tex2jax: {inlineMath: [['$','$'],['\\(','\\)']]} }); 
+</script> <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
 
 #Homework 1
 ## ME570 Yichen Di
@@ -65,11 +66,12 @@ Moreover, using 100 testpoints:
 Last, revise the function to display a random triangle and test it with 100 random points:    
 
 
-####Question 3.1
+#### Question 3.1
 
-####Question 4.1
-30 hours!
-####Question 4.2(optional)
+#### Question 4.1
+30 hours!   
+
+#### Question 4.2(optional)
 The easy part is that I am good at coding and math, and I am familiar with the data structure priority queue.   
 
 The hard part is that although I am good at coding, I am annoyed with the Matlab syntax because I have used Java and python for a long time.
