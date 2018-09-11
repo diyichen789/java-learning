@@ -1,6 +1,3 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-$cos\theta$
-
 # Homework 1 Report
 ## ME570 Yichen Di
 ### September, 10th, 2018
@@ -18,6 +15,9 @@ I implement this function according to the hint, and also discuss several situat
 
 #### Question 1.4 (provided)
 #### Question 1.5
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>  
+
 Because
 $$cAngle = vec1'*vec2$$
 $$\vec {v_1}\cdot \vec{v_2} = |v_1||v_2|cos\theta$$
@@ -65,11 +65,11 @@ Moreover, using 100 testpoints:
 
 Last, revise the function to display a random triangle and test it with 100 random points:
 
-####Question 3.1
+#### Question 3.1
 
-####Question 4.1
+#### Question 4.1
 30 hours!
-####Question 4.2(optional)
+#### Question 4.2(optional)
 The easy part is that I am good at coding and math, and I am familiar with the data structure priority queue.
 
 The hard part is that although I am good at coding, I am annoyed with the Matlab syntax because I have used Java and python for a long time.
